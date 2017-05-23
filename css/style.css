@@ -31,11 +31,11 @@ h1 {
   display: inline-block;
   margin-top: -0.3px;
   color: #fff;
-  margin-left: -10px;
+  margin-left: -13px;
 }
 .fa-bars {
   position: fixed;
-  right: 14px;
+  right: 12px;
   top:15px;
   cursor:pointer;
   z-index: 1;
