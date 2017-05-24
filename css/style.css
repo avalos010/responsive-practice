@@ -75,6 +75,7 @@ nav ul li a {
 
 p {
   font-size: 1.2em;
+  text-align: justify;
 }
 
 p::first-letter {
